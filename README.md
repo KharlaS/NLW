@@ -19,5 +19,6 @@ Projeto construído do evento Next Level Week da Rocketseat;
 ## ❤️ Contato
 
 kharlasrosario@gmail.com
+
 https://www.linkedin.com/in/kharlasrosario/
 
